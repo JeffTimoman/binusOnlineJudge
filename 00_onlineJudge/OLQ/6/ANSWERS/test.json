@@ -1,0 +1,20 @@
+{
+    "1" : {
+        "nama"  : "Budi",
+        "umur"  : 20,
+        "alamat": "Jl. Budi",
+        "nikah" : true
+    },
+    "2" : {
+        "nama"  : "Susi",
+        "umur"  : 21,
+        "alamat": "Jl. Susi",
+        "nikah" : false
+    },
+    "3" : {
+        "nama"  : "Siti",
+        "umur"  : 22,
+        "alamat": "Jl. Siti",
+        "nikah" : true
+    }
+}
